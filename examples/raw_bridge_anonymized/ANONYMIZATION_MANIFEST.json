@@ -1,0 +1,26 @@
+{
+  "source": "DATLINKSET-I/II/III.xls",
+  "rows": 15927,
+  "bridges": 153,
+  "files": {
+    "DATLINKSET-I.csv": {
+      "rows": 7080,
+      "bridges": 43
+    },
+    "DATLINKSET-II.csv": {
+      "rows": 4530,
+      "bridges": 40
+    },
+    "DATLINKSET-III.csv": {
+      "rows": 4317,
+      "bridges": 70
+    }
+  },
+  "removed_columns": [
+    "bridge_id_raw",
+    "bridge_name_raw",
+    "source_file"
+  ],
+  "public_id": "bridge_####",
+  "location_labels_included": false
+}
